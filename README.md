@@ -4,7 +4,7 @@
 ### Experiences 
 ---
 - Software Maestro 15th Mentee (2024.4-2024.11)
-- 현대 Softeer Bootcamp 3th (2023.12-2024.2)
+- 현대 Softeer Bootcamp 3rd (2023.12-2024.2)
 - 멋쟁이 사자처럼 9th (2021.3-2021.12)
 
 ### Works
